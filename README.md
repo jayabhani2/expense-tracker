@@ -131,4 +131,4 @@ Used for styling all components.
 Ensures the application has a unique, creative, and visually appealing design.
 
 ## Author
-Developed by Your Name.
+Developed by Jay Abhani.
