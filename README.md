@@ -2,6 +2,13 @@
 
 An Expense Tracker application to manage your income and expenses efficiently. The application allows users to add, view, and delete their financial entries, with a net balance calculation based on the total income and expenses.
 
+## Deployed Link
+https://expense-tracker-kohl-theta.vercel.app/
+
+## Other Deployments
+Backend (Render) : https://expense-tracker-t7xv.onrender.com
+MongoDB Atlas for database
+
 ## Features
 Add Income/Expense: Users can add a new entry with details such as amount, description, date, and type.
 View Entries: Display a list of all income and expense entries.
